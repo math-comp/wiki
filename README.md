@@ -1,2 +1,1 @@
-# wiki
-general wiki of the math-comp organization
+#Browse and edit the [wiki](https://github.com/math-comp/wiki/wiki)
